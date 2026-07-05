@@ -1,0 +1,9 @@
+{
+  "name": "com.arel.focus.bridge",
+  "description": "Arel Focus Chrome native messaging bridge",
+  "path": "/absolute/path/to/arel-focus/dist/ArelFocusNativeBridge",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://bahomlbhpbbbeffdgndnfbpmfnoemojc/"
+  ]
+}
