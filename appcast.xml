@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Arel Focus Updates</title>
+    <link>https://raw.githubusercontent.com/vishmathpati/arel-focus/releases/appcast.xml</link>
+    <language>en</language>
+    <item>
+      <title>Arel Focus 0.2.0</title>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 12 Aug 2026 19:46:12 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New</h2>
+        <ul>
+          <li>Added explicit first-run privacy consent before tracking begins.</li>
+          <li>Added complete project editing, archive, restore, and confirmed deletion.</li>
+          <li>Redesigned Projects and Focus Session history as scalable Arel ledgers.</li>
+          <li>Added detailed reports for apps, websites, projects, and Focus Sessions.</li>
+          <li>Added complete local-data export and safer shutdown persistence.</li>
+          <li>Added secure in-app update checks and universal Intel and Apple Silicon builds.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/vishmathpati/arel-focus/releases/download/v0.2.0/Arel-Focus.dmg" type="application/octet-stream" sparkle:edSignature="FsqH4rPklJQUXLg0WumtsUq1yhTEZBMgDuu5Ypn5swgJsiQ9pxliW6je4bXL1hYaHrql4dv7NYxv8nJVhShXAw==" length="3769002"></enclosure>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: RQ4p3tdTeDxncpwiEGrWk4F/JSn/xwmHekg5gqmqGUNj9U63h4ridO5i0BA9k+Oxsxfyd8A9Rk6QVRbHMh4yBw==
+length: 1804
+-->
